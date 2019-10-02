@@ -51,8 +51,22 @@ background-color: cornsilk}
     position: absolute;
     width: 20%;
     margin: 1rem;
-    top:500px;
-    right: 50px;
+    top:400px;
+    right: 40px;
+    padding: 10px;
+    border-width: 10px;
+    border-radius: 30px;
+    border-color: lightgrey;
+    border-style: solid;
+
+}
+
+.pic2 {
+    position: absolute;
+    width: 20%;
+    margin: 1rem;
+    top:400px;
+    right: 40px;
     padding: 10px;
     border-width: 10px;
     border-radius: 30px;
@@ -76,3 +90,21 @@ background-color: cornsilk}
     border-style: solid;
     background-color: lightsteelblue;
 }
+.box2 {
+    position: relative;
+    width: 40%;
+    margin: 1rem;
+    padding: 2rem;
+    color: #FFF;
+    font-size: .9rem;
+    font-weight: bold;
+    text-align: left;
+    border-width: 10px;
+    border-radius: 30px;
+    border-color: lightgrey;
+    border-style: solid;
+    background-color: lightsteelblue;
+}
+
+
+

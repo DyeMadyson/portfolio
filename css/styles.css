@@ -49,10 +49,10 @@ background-color: cornsilk}
 }
 .pic {
     position: absolute;
-    width: 20%;
+    width: 15%;
     margin: 1rem;
-    top:400px;
-    right: 40px;
+    top:410px;
+    right: 220px;
     padding: 10px;
     border-width: 10px;
     border-radius: 30px;
@@ -63,10 +63,10 @@ background-color: cornsilk}
 
 .pic2 {
     position: absolute;
-    width: 20%;
+    width: 15%;
     margin: 1rem;
-    top:400px;
-    right: 40px;
+    top:310px;
+    right: 30px;
     padding: 10px;
     border-width: 10px;
     border-radius: 30px;
@@ -75,6 +75,45 @@ background-color: cornsilk}
 
 }
 
+.pic3 {
+    position: absolute;
+    width: 20%;
+    margin: 1rem;
+    top:400px;
+    right: 80px;
+    padding: 10px;
+    border-width: 10px;
+    border-radius: 30px;
+    border-color: lightgrey;
+    border-style: solid;
+
+}
+.pic4 {
+    position: absolute;
+    width: 20%;
+    margin: 1rem;
+    top:400px;
+    right:90px;
+    padding: 10px;
+    border-width: 10px;
+    border-radius: 30px;
+    border-color: lightgrey;
+    border-style: solid;
+
+}
+.pic5 {
+    position: absolute;
+    width: 20%;
+    margin: 1rem;
+    top:400px;
+    right: 90px;
+    padding: 10px;
+    border-width: 10px;
+    border-radius: 30px;
+    border-color: lightgrey;
+    border-style: solid;
+
+}
 .box {
     position: relative;
     width: 50%;

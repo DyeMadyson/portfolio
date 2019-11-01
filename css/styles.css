@@ -80,7 +80,7 @@ background-color: cornsilk}
     width: 20%;
     margin: 1rem;
     top:400px;
-    right: 80px;
+    right: 200px;
     padding: 10px;
     border-width: 10px;
     border-radius: 30px;
@@ -107,6 +107,19 @@ background-color: cornsilk}
     margin: 1rem;
     top:400px;
     right: 90px;
+    padding: 10px;
+    border-width: 10px;
+    border-radius: 30px;
+    border-color: lightgrey;
+    border-style: solid;
+
+}
+.pic6 {
+    position: absolute;
+    width: 20%;
+    margin: 1rem;
+    top:400px;
+    right: 500px;
     padding: 10px;
     border-width: 10px;
     border-radius: 30px;
@@ -144,6 +157,4 @@ background-color: cornsilk}
     border-style: solid;
     background-color: lightsteelblue;
 }
-
-
 

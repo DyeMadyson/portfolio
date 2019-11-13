@@ -2,7 +2,8 @@ body {
     width: 100% background-color: red;
 
 
-background-color: cornsilk}
+    background-color: cornsilk
+}
 
 //* Style the navigation menu */
 .navbar {
@@ -47,12 +48,13 @@ background-color: cornsilk}
     width: 100%;
     height: auto;
 }
+
 .pic {
-    position: absolute;
+    position: relative;
     width: 15%;
-    margin: 1rem;
-    top:410px;
-    right: 220px;
+    margin: 10px;
+    top: 10px;
+    right: 5px;
     padding: 10px;
     border-width: 10px;
     border-radius: 30px;
@@ -62,10 +64,10 @@ background-color: cornsilk}
 }
 
 .pic2 {
-    position: absolute;
+    position: relative;
     width: 15%;
-    margin: 1rem;
-    top:310px;
+    margin: 10px;
+    top: 10px;
     right: 30px;
     padding: 10px;
     border-width: 10px;
@@ -76,11 +78,11 @@ background-color: cornsilk}
 }
 
 .pic3 {
-    position: absolute;
+    position: relative;
     width: 20%;
-    margin: 1rem;
-    top:400px;
-    right: 200px;
+    margin: 10px;
+    top: 10px;
+    left: 500px;
     padding: 10px;
     border-width: 10px;
     border-radius: 30px;
@@ -88,12 +90,13 @@ background-color: cornsilk}
     border-style: solid;
 
 }
+
 .pic4 {
-    position: absolute;
+    position: relative;
     width: 20%;
-    margin: 1rem;
-    top:400px;
-    right:90px;
+    margin: 10px;
+    top: 10px;
+    right: 0px;
     padding: 10px;
     border-width: 10px;
     border-radius: 30px;
@@ -101,12 +104,13 @@ background-color: cornsilk}
     border-style: solid;
 
 }
+
 .pic5 {
-    position: absolute;
+    position: relative;
     width: 20%;
     margin: 1rem;
-    top:400px;
-    right: 90px;
+    top: 10px;
+    right: 10px;
     padding: 10px;
     border-width: 10px;
     border-radius: 30px;
@@ -114,12 +118,15 @@ background-color: cornsilk}
     border-style: solid;
 
 }
+
 .pic6 {
-    position: absolute;
-    width: 20%;
-    margin: 1rem;
-    top:400px;
-    right: 500px;
+    position: relative;
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    top: 10px;
+
     padding: 10px;
     border-width: 10px;
     border-radius: 30px;
@@ -127,10 +134,11 @@ background-color: cornsilk}
     border-style: solid;
 
 }
+
 .box {
     position: relative;
     width: 50%;
-    margin: 1rem;
+     margin: 0 auto;
     padding: 2rem;
     color: #FFF;
     font-size: .9rem;
@@ -142,6 +150,7 @@ background-color: cornsilk}
     border-style: solid;
     background-color: lightsteelblue;
 }
+
 .box2 {
     position: relative;
     width: 40%;
@@ -158,3 +167,19 @@ background-color: cornsilk}
     background-color: lightsteelblue;
 }
 
+.boxp {
+    position: relative;
+    width: 100px;
+    margin: 1rem;
+    padding: 2rem;
+    color: #FFF;
+    font-size: .9rem;
+    font-weight: bold;
+    text-align: left;
+    border-width: 10px;
+    border-radius: 30px;
+    border-color: lightgrey;
+    border-style: solid;
+    background-color: lightsteelblue;
+
+}
